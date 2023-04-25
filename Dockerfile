@@ -19,7 +19,7 @@ FROM jlesage/baseimage-gui:alpine-3.17-v4.4.1
 ARG DOCKER_IMAGE_VERSION=
 
 # Define software versions.
-ARG FIREFOX_VERSION=112.0.1-r2
+ARG FIREFOX_VERSION=109.0.1-r0
 #ARG PROFILE_CLEANER_VERSION=2.36
 
 # Define software download URLs.
